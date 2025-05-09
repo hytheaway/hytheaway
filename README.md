@@ -1,6 +1,10 @@
 ## hello.
 
-psychoacoustic/audio researcher specializing in binaural audio.
+*psychoacoustic/audio researcher specializing in binaural audio.*
+
+check out my stuff here: https://hytheaway.github.io/projects.html
+
+contact me here: https://hytheaway.github.io/contact.html
 
 <!--
 **hytheaway/hytheaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
