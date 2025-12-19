@@ -1,10 +1,10 @@
 ## hello.
 
-*psychoacoustic/audio researcher specializing in binaural audio.*
+*spatial audio psychoacoustic researcher.*
 
-check out my stuff here: https://hytheaway.github.io/projects.html
+check out my stuff [here](https://hytheaway.github.io/projects.html).
 
-contact me here: https://hytheaway.github.io/contact.html
+contact me [here](https://hytheaway.github.io/contact.html).
 
 ![garrett's github stats](https://github-readme-stats-seven-sepia-88.vercel.app/api?username=hytheaway&show_icons=true&theme=catppuccin_mocha&hide=stars,contribs&rank_icon=github&custom_title=garrett%27s%20github%20stats&include_all_commits=true&line_height=24&show=prs_merged) ![top langs](https://github-readme-stats-seven-sepia-88.vercel.app/api/top-langs/?username=hytheaway&layout=compact&theme=catppuccin_mocha&custom_title=top%20languages)
 
