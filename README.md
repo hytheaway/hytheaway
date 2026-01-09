@@ -1,6 +1,6 @@
 ## hello.
 
-*spatial audio psychoacoustic researcher.*
+*spatial audio psychoacoustics.*
 
 check out my stuff [here](https://hytheaway.github.io/projects.html).
 
